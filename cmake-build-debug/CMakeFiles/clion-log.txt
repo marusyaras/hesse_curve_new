@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/marusyarastorgueva/dev/hesse_curve_new
+-- Found PkgConfig: /usr/local/bin/pkg-config (found version "0.29.2") 
+-- Checking for module 'libtommath'
+--   Found libtommath, version 1.2.0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/marusyarastorgueva/dev/hesse_curve_new/cmake-build-debug

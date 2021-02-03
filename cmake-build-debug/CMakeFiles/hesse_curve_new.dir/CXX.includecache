@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/marusyarastorgueva/dev/hesse_curve_new/main.cpp
+iostream
+-
+tommath.h
+/Users/marusyarastorgueva/dev/hesse_curve_new/tommath.h
+
+/usr/local/include/tommath.h
+stdint.h
+-
+stddef.h
+-
+limits.h
+-
+stdio.h
+-
+
